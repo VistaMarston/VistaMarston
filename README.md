@@ -6,19 +6,6 @@
 - ✉️ You can reach me on 🔗 [LinkedIn](https://www.linkedin.com/in/vistamarston) or my website 🍜 [Golden Ramen Bowl](https://goldenramenbowl.com/)
 
 ---
-
-### My Newbie Tech Stack
-- Languages
-<p align="left">
-<img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="Java logo" width="40" height="40"/><img src="https://brandeps.com/logo-download/C/C-Sharp-logo-vector-01.svg" alt="C-Sharp logo" width="40" height="40"/><img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="JavaScript logo width="40" height="40"/><img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Node.js logo"  width="40" height="40"/>
- </p>
-
-- Source Control
-<p align="left">
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Java" width="40" height="40"/>
-</p>
- 
- 
  
 <!--
 THIS SECTION DOESN'T APPEAR IN THE PREVIEW OR ON GITHUB - use it for notes & reference material
