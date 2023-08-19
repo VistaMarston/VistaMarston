@@ -1,8 +1,7 @@
 <h1 align="center">Greetings 👋 I'm Vista</h1>
-<h3 align="center">Computer Science student from the United States :us:</h3>
+<h3 align="center">Software Engineer from the United States :us:</h3>
 
-- 📚 I’m currently working on a **BS in Computer Science**
-- 🌱 I’m currently studying Computer Science at The University of Utah.
+- 📚 I’m graudated with a **BS in Computer Science** from the University of Utah
 - ✉️ You can reach me on 🔗 [LinkedIn](https://www.linkedin.com/in/vistamarston) or my website 🍜 [Golden Ramen Bowl](https://goldenramenbowl.com/)
 
 ---
